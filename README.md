@@ -6,3 +6,5 @@ You can download these notebooks and execute them directly on your HDI Insight C
 - [Spark 3.1/HDI 5.0 NY TAXI Delta Lake Example](./spark/scala/nyctaxi_delta_demo.ipynb)
 - [Spark 3.1/HDI 5.0 Iceberg Hive Managed Catalog](./spark/scala/iceberg_spark_hive_managed.ipynb)
 - [Spark 3.1/HDI 5.0 Iceberg Hadoop Managed Catalog](./spark/scala/iceberg_spark_hadoop.ipynb)
+
+You can find examples using Spark uber [hdideltalakeexample repo](https://github.com/sethiaarun/hdideltalakeexample)
