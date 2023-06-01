@@ -8,6 +8,6 @@ You can download these notebooks and execute them directly on your HDI Insight C
 - [Spark 3.1/HDI 5.0 Iceberg Delta Spark Example](./spark/scala/iceberg_delta_spark_example.ipynb)
 - [Spark 3.1/HDI 5.0 AQE Dynamically Coalesce Shuffle Partitions Example](./spark/scala/hdi5_spark3_aqe_dynamic_partition.ipynb)
 - [Spark 3.1/HDI 5.0 AQE Dynamically Switch Join Strategies Example](./spark/scala/aqe_dynamic_join_example.ipynb)
-- [Spark 3.1/HDI 5.0 AQE Dynamically Optimize Skew Join Example](./spark/scala/aqe_skewness_example.ipynb.ipynb)
+- [Spark 3.1/HDI 5.0 AQE Dynamically Optimize Skew Join Example](./spark/scala/aqe_skewness_example.ipynb)
 
 You can find examples using Spark uber jar [hdideltalakeexample repo](https://github.com/sethiaarun/hdideltalakeexample)
